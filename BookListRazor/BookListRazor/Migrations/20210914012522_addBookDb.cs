@@ -2,7 +2,7 @@
 
 namespace BookListRazor.Migrations
 {
-    public partial class addBookToDb : Migration
+    public partial class addBookDb : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

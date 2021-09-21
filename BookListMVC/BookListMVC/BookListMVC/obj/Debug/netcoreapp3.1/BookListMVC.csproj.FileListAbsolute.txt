@@ -416,3 +416,4 @@ E:\_cursos\C#\Introduction_ASP_NET\BookList\BookListMVC\BookListMVC\BookListMVC\
 E:\_cursos\C#\Introduction_ASP_NET\BookList\BookListMVC\BookListMVC\BookListMVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\_cursos\C#\Introduction_ASP_NET\BookList\BookListMVC\BookListMVC\BookListMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\_cursos\C#\Introduction_ASP_NET\BookList\BookListMVC\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs
+E:\_cursos\C#\Introduction_ASP_NET\BookList\BookListMVC\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\Razor\Views\Books\Upsert.cshtml.g.cs
